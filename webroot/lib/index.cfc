@@ -1,3 +1,0 @@
-component extends="commands.index" {
-	
-}

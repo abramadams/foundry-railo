@@ -1,3 +1,0 @@
-"Severity","ThreadID","Date","Time","Application","Message"
-"ERROR","web-0","10/08/2012","15:33:34","controler","stop thread (1) because run into a timeout path: /Users/rountrjf/Sites/fpm/test/packageTests.cfc (/Users/rountrjf/Sites/mxunit/framework/ConfigManager.cfc)."
-"ERROR","web-0","10/08/2012","15:33:44","controler","stop thread (1) because run into a timeout path: /Users/rountrjf/Sites/fpm/test/packageTests.cfc (/Users/rountrjf/Sites/mxunit/framework/ConfigManager.cfc)."
