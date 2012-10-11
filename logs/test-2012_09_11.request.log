@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1%0 -  -  [11/Sep/2012:14:13:33 +0000] "GET /rewrite.cfm HTTP/1.1" 404 6215 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:15.0) Gecko/20100101 Firefox/15.0.1"
+0:0:0:0:0:0:0:1%0 -  -  [11/Sep/2012:14:25:59 +0000] "GET /rewrite.cfm HTTP/1.1" 404 6215 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:15.0) Gecko/20100101 Firefox/15.0.1"
