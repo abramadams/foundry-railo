@@ -69,9 +69,9 @@ then
 	LESS=${LESS:-FSRX}
 	export LESS
 
-	"$java" $java_args cliloader.LoaderCLIMain "$@" | $use_pager
+	"$java" $java_args -cp . cliloader.LoaderCLIMain "$@" | $use_pager
 	exit
 else
-  exec "$java" $java_args cliloader.LoaderCLIMain "$@"
+  exec "$java" $java_args -cp . cliloader.LoaderCLIMain "$@"
   exit 1
 fi
